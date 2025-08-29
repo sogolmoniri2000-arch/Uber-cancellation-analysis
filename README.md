@@ -24,3 +24,11 @@ We used data analysis and machine learning to find patterns and predict the prob
 ## Conclusion
 Most cancellations were marked as Unknown, but waiting time and location strongly affect whether a customer cancels.  
 This project shows how data analysis + machine learning can help Uber improve customer experience.
+## Notebook 📒
+
+You can explore the full analysis in the Jupyter Notebook:  
+👉 [Uber Analysis Notebook](./uber.ipynb)
+
+Or open it online:  
+- [Open in Google Colab](https://colab.research.google.com/github/sogolmoniri2000-arch/Uber-cancellation-analysis/blob/main/uber.ipynb)  
+- [View in nbviewer](https://nbviewer.org/github/sogolmoniri2000-arch/Uber-cancellation-analysis/blob/main/uber.ipynb)
